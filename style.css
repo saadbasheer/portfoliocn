@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #17202A;
+    color: thistle;
+    box-sizing: border-box;
+    font-family: 'Share Tech Mono', monospace;
+}
+.header{
+    text-align: center;
+    color: thistle;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 30px;
+
+}
+.topnav{
+    text-align: center;
+    padding: 0.5px 1px;
+    padding-bottom: 5px;
+}
+.image{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.main{
+    margin: 30px;
+    display: block;
+}
+
+.about{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.abttext{
+    text-align: center;
+}
+
+.text{
+    
+    padding-bottom: 100px;
+    
+ 
+    
+}
+.skills{
+    font-size: 30px;
+    text-align: left;
+    
+
+}
+/* .skltext{
+    text-align: justify;
+    padding-bottom: 100px;
+    padding-right: 200px;
+} */
+.projects{
+    font-size: 30px;
+    text-align: left;
+    
+    
+}
+/* .prjtext{
+    text-align: justify;
+    padding-bottom: 100px;
+    padding-right: 200px;
+} */
+.resume{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+    
+}
+/* .restext{
+    text-align: justify;
+    padding-bottom: 100px;
+    padding-right: 200px;
+} */
+.contact{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+    
+}
+#resume{
+    text-align: center;
+}
+#form{
+    text-align: center;
+
+}
+#res{
+    text-align: center;
+}
+.social{
+    align-items: center;
+    
+    justify-content: center;
+}
+
+/* .context{
+    text-align: justify;
+    padding-bottom: 100px;
+    padding-right: 200px;
+} */
